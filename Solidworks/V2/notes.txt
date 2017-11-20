@@ -1,0 +1,27 @@
+# Notes
+
+
+## Back Gear
+
+outer dia = 37.83mm x 6.87 = 259.89mm
+30 teeth
+Using a Gear standard of Stub Involoute 20deg
+
+
+## Front Gear
+
+outer dia = 61.13mm x 6.87 = 419.96mm
+15 teeth over angle of 116.13deg
+45 teeth total i think for a full circle
+
+
+## Rack
+
+the number of teeth is 15
+14 in the middle, and half of 1 at each end
+
+outer dia 17.2mm x 6.87 = 118.164mm
+total length = 102.16mm x 6.87 = 701.8392mm
+distance of travel = 88.74mm x 6.87 = 609.64mm / 2ft
+
+multiplication factor 6.87

@@ -1,0 +1,40 @@
+# Notes
+
+## Back Gear
+
+inport as dxf, sketch, select mm as range
+
+when imported
+for gear teeth:
+outer dia is 37.83mm
+inner dia is 33.09mm
+30 teeth
+
+Using a Gear standard of Stub Involoute 20deg
+pitch diameter 101.810mm - X
+outer dia 107.240mm - X
+inner dia 95.023mm - X
+
+## Front Gear
+
+inport as dxf, sketch, select mm as range
+
+when imported
+for gear teeth:
+outer dia is 61.13mm
+inner dia is 55.3mm
+15 teeth over angle of 116.13deg
+45 teeth total i think for a full circle
+
+## Rack
+
+the number of teeth is 15
+14 in the middle, and half of 1 at each end
+
+outer dia 17.2mm
+inner dia 10.4mm
+length on svg is 102.16mm
+distance of travel is probably around 88.74mm
+
+we need a distance of travel of around 2ft = 609.6mm
+this is a multiplication factpr of around 6.87
