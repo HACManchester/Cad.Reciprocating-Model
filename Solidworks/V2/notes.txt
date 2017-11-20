@@ -12,7 +12,7 @@ Using a Gear standard of Stub Involoute 20deg
 
 outer dia = 61.13mm x 6.87 = 419.96mm
 15 teeth over angle of 116.13deg
-45 teeth total i think for a full circle
+42 teeth total i think for a full circle
 
 
 ## Rack
